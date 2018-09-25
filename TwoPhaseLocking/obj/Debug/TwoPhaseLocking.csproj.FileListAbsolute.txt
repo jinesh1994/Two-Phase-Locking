@@ -1,0 +1,14 @@
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\Sample Data\sample1.txt
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\Sample Data\sample2.txt
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\Sample Data\sample3.txt
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\Sample Data\sample4.txt
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\Sample Data\sample5.txt
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\Sample Data\sample6.txt
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\Sample Data\sample7.txt
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\TwoPhaseLocking.exe.config
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\TwoPhaseLocking.exe
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\bin\Debug\TwoPhaseLocking.pdb
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\obj\Debug\TwoPhaseLocking.csprojAssemblyReference.cache
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\obj\Debug\TwoPhaseLocking.csproj.CoreCompileInputs.cache
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\obj\Debug\TwoPhaseLocking.exe
+D:\OneDrive - University of Texas at Arlington\Summer 18\DB2\Project1\TwoPhaseLocking\TwoPhaseLocking\obj\Debug\TwoPhaseLocking.pdb
